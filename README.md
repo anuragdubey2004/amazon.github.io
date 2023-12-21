@@ -1,1 +1,2 @@
-# amazon.github.io
+# amazon
+Amazon
